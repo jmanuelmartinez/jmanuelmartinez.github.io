@@ -1,16 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.32439d88.js",
-    "static/js/787.bbe01249.chunk.js": "/static/js/787.bbe01249.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/static/css/main.a7348282.css",
+    "main.js": "/static/js/main.72ce2c38.js",
+    "static/media/CV_Jose_Manuel_Martinez.pdf": "/static/media/CV_Jose_Manuel_Martinez.b286fbdc68e08da1d374.pdf",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.32439d88.js.map": "/static/js/main.32439d88.js.map",
-    "787.bbe01249.chunk.js.map": "/static/js/787.bbe01249.chunk.js.map"
+    "main.a7348282.css.map": "/static/css/main.a7348282.css.map",
+    "main.72ce2c38.js.map": "/static/js/main.72ce2c38.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.32439d88.js"
+    "static/css/main.a7348282.css",
+    "static/js/main.72ce2c38.js"
   ]
 }
