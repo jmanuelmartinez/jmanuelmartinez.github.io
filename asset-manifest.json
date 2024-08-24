@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a7348282.css",
+    "main.js": "/static/js/main.0755a8ca.js",
+    "static/media/CV_Jose_Manuel_Martinez.pdf": "/static/media/CV_Jose_Manuel_Martinez.b286fbdc68e08da1d374.pdf",
+    "index.html": "/index.html",
+    "main.a7348282.css.map": "/static/css/main.a7348282.css.map",
+    "main.0755a8ca.js.map": "/static/js/main.0755a8ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7348282.css",
+    "static/js/main.0755a8ca.js"
+  ]
+}
